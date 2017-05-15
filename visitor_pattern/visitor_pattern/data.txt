@@ -1,0 +1,22 @@
+
+
+orders for big sizes department:
+New client ordered:
+Classic pavement in big sizes: 7 square meters
+
+New client ordered:
+Colored pavement in big sizes: 7 square meters
+
+orders for small sizes department:
+Vip-client ordered:
+Classic pavement in small size: 67 square meters
+
+
+orders for small sizes department:
+Vip-client ordered:
+Stone-imitated pavement in small size: 10 square meters
+
+orders for classic sizes department:
+Vip-client ordered:
+Classic pavement: 9 square meters
+
